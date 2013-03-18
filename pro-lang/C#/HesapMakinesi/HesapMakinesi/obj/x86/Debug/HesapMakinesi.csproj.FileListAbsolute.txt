@@ -1,0 +1,18 @@
+C:\Users\admin\Desktop\C#\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\admin\Desktop\C#\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\admin\Desktop\C#\HesapMakinesi\HesapMakinesi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\C#\HesapMakinesi\HesapMakinesi\obj\x86\Debug\HesapMakinesi.Form1.resources
+C:\Users\admin\Desktop\C#\HesapMakinesi\HesapMakinesi\obj\x86\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\admin\Desktop\C#\HesapMakinesi\HesapMakinesi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\C#\HesapMakinesi\HesapMakinesi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\C#\HesapMakinesi\HesapMakinesi\obj\x86\Debug\HesapMakinesi.exe
+C:\Users\admin\Desktop\C#\HesapMakinesi\HesapMakinesi\obj\x86\Debug\HesapMakinesi.pdb
+C:\Users\admin\Desktop\Düzgün Alis\HesapMakinesi\HesapMakinesi\obj\x86\Debug\HesapMakinesi.exe
+C:\Users\admin\Desktop\Düzgün Alis\HesapMakinesi\HesapMakinesi\obj\x86\Debug\HesapMakinesi.pdb
+C:\Users\admin\Desktop\Düzgün Alis\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\admin\Desktop\Düzgün Alis\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\admin\Desktop\Düzgün Alis\HesapMakinesi\HesapMakinesi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Düzgün Alis\HesapMakinesi\HesapMakinesi\obj\x86\Debug\HesapMakinesi.Form1.resources
+C:\Users\admin\Desktop\Düzgün Alis\HesapMakinesi\HesapMakinesi\obj\x86\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\admin\Desktop\Düzgün Alis\HesapMakinesi\HesapMakinesi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\Düzgün Alis\HesapMakinesi\HesapMakinesi\obj\x86\Debug\GenerateResource.write.1.tlog

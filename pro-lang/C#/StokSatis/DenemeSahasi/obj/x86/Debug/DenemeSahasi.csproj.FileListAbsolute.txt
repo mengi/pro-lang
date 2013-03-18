@@ -1,0 +1,23 @@
+C:\Users\admin\Desktop\C#\DenemeSahasi\DenemeSahasi\bin\Debug\DenemeSahasi.exe
+C:\Users\admin\Desktop\C#\DenemeSahasi\DenemeSahasi\bin\Debug\DenemeSahasi.pdb
+C:\Users\admin\Desktop\C#\DenemeSahasi\DenemeSahasi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\C#\DenemeSahasi\DenemeSahasi\obj\x86\Debug\DenemeSahasi.Form1.resources
+C:\Users\admin\Desktop\C#\DenemeSahasi\DenemeSahasi\obj\x86\Debug\DenemeSahasi.Properties.Resources.resources
+C:\Users\admin\Desktop\C#\DenemeSahasi\DenemeSahasi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\C#\DenemeSahasi\DenemeSahasi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\C#\DenemeSahasi\DenemeSahasi\obj\x86\Debug\DenemeSahasi.exe
+C:\Users\admin\Desktop\C#\DenemeSahasi\DenemeSahasi\obj\x86\Debug\DenemeSahasi.pdb
+C:\Users\admin\Desktop\C#\DenemeSahasi\DenemeSahasi\bin\Debug\DenemeSahasi.exe.config
+C:\Users\admin\Desktop\C#\DenemeSahasi\DenemeSahasi\obj\x86\Debug\DenemeSahasi.Form2.resources
+C:\Users\admin\Desktop\Düzgün Alis\DenemeSahasi\DenemeSahasi\bin\Debug\DenemeSahasi.exe.config
+C:\Users\admin\Desktop\Düzgün Alis\DenemeSahasi\DenemeSahasi\obj\x86\Debug\DenemeSahasi.exe
+C:\Users\admin\Desktop\Düzgün Alis\DenemeSahasi\DenemeSahasi\obj\x86\Debug\DenemeSahasi.pdb
+C:\Users\admin\Desktop\Düzgün Alis\DenemeSahasi\DenemeSahasi\bin\Debug\DenemeSahasi.exe
+C:\Users\admin\Desktop\Düzgün Alis\DenemeSahasi\DenemeSahasi\bin\Debug\DenemeSahasi.pdb
+C:\Users\admin\Desktop\Düzgün Alis\DenemeSahasi\DenemeSahasi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Düzgün Alis\DenemeSahasi\DenemeSahasi\obj\x86\Debug\DenemeSahasi.Form1.resources
+C:\Users\admin\Desktop\Düzgün Alis\DenemeSahasi\DenemeSahasi\obj\x86\Debug\DenemeSahasi.Form2.resources
+C:\Users\admin\Desktop\Düzgün Alis\DenemeSahasi\DenemeSahasi\obj\x86\Debug\DenemeSahasi.Properties.Resources.resources
+C:\Users\admin\Desktop\Düzgün Alis\DenemeSahasi\DenemeSahasi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\Düzgün Alis\DenemeSahasi\DenemeSahasi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\Düzgün Alis\DenemeSahasi\DenemeSahasi\obj\x86\Debug\DenemeSahasi.Form3.resources
